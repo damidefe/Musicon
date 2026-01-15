@@ -1,0 +1,158 @@
+# depslib dependency file v1.0
+1761937395 source:c:\users\locas\onedrive\escritorio\utn toto\introduccion a la programacion\programacion 2\tp integradir\musicon-prog-2-main\src\album.cpp
+	"Album.h"
+	<cstring>
+
+1761928566 c:\users\locas\onedrive\escritorio\utn toto\introduccion a la programacion\programacion 2\tp integradir\musicon-prog-2-main\include\album.h
+
+1761783980 source:c:\users\locas\onedrive\escritorio\utn toto\introduccion a la programacion\programacion 2\tp integradir\musicon-prog-2-main\src\artista.cpp
+	"Artista.h"
+	<iostream>
+	<cstring>
+
+1761783980 c:\users\locas\onedrive\escritorio\utn toto\introduccion a la programacion\programacion 2\tp integradir\musicon-prog-2-main\include\artista.h
+
+1761783980 source:c:\users\locas\onedrive\escritorio\utn toto\introduccion a la programacion\programacion 2\tp integradir\musicon-prog-2-main\src\fecha.cpp
+	"Fecha.h"
+
+1761783980 c:\users\locas\onedrive\escritorio\utn toto\introduccion a la programacion\programacion 2\tp integradir\musicon-prog-2-main\include\fecha.h
+	<string>
+
+1761937407 source:c:\users\locas\onedrive\escritorio\utn toto\introduccion a la programacion\programacion 2\tp integradir\musicon-prog-2-main\src\suscriptor.cpp
+	<iostream>
+	<cstring>
+	"Suscriptor.h"
+
+1761783980 c:\users\locas\onedrive\escritorio\utn toto\introduccion a la programacion\programacion 2\tp integradir\musicon-prog-2-main\src\suscriptor.h
+	"Fecha.h"
+
+1761929198 source:c:\users\locas\onedrive\escritorio\utn toto\introduccion a la programacion\programacion 2\tp integradir\musicon-prog-2-main\main.cpp
+	<iostream>
+	"musicon.h"
+
+1761400554 c:\users\locas\onedrive\escritorio\utn toto\introduccion a la programacion\programacion 2\tp integradir\musicon-prog-2-main\include\musicon.h
+	<iostream>
+	<cstring>
+
+1761399832 source:c:\users\locas\onedrive\escritorio\utn toto\introduccion a la programacion\programacion 2\tp integradir\musicon-prog-2-main\src\musicon.cpp
+	"musicon.h"
+	<iostream>
+
+1761941312 source:c:\users\locas\onedrive\escritorio\utn toto\introduccion a la programacion\programacion 2\tp integradir\musicon-prog-2-main\src\accesos.cpp
+	"Accesos.h"
+
+1761941256 c:\users\locas\onedrive\escritorio\utn toto\introduccion a la programacion\programacion 2\tp integradir\musicon-prog-2-main\include\accesos.h
+	"musicon.h"
+
+1765829097 source:c:\users\damie\onedrive\escritorio\musicon-prog-2-main (12)\musicon-prog-2-main\main.cpp
+	<iostream>
+	"musicon.h"
+
+1765829097 c:\users\damie\onedrive\escritorio\musicon-prog-2-main (12)\musicon-prog-2-main\include\musicon.h
+	<iostream>
+	<string>
+	"Canciones.h"
+	"DetallePlaylist.h"
+	"Artista.h"
+	"Album.h"
+	"Suscriptor.h"
+	"Listas.h"
+	"Accesos.h"
+	"Fecha.h"
+	"Generos.h"
+
+1765829097 c:\users\damie\onedrive\escritorio\musicon-prog-2-main (12)\musicon-prog-2-main\include\canciones.h
+
+1765829097 c:\users\damie\onedrive\escritorio\musicon-prog-2-main (12)\musicon-prog-2-main\include\detalleplaylist.h
+	"Fecha.h"
+
+1765829097 c:\users\damie\onedrive\escritorio\musicon-prog-2-main (12)\musicon-prog-2-main\include\fecha.h
+	<string>
+	"HoraYMinutos.h"
+
+1765829097 c:\users\damie\onedrive\escritorio\musicon-prog-2-main (12)\musicon-prog-2-main\include\horayminutos.h
+	<string>
+
+1765829097 c:\users\damie\onedrive\escritorio\musicon-prog-2-main (12)\musicon-prog-2-main\include\artista.h
+
+1765829097 c:\users\damie\onedrive\escritorio\musicon-prog-2-main (12)\musicon-prog-2-main\include\album.h
+
+1765829097 c:\users\damie\onedrive\escritorio\musicon-prog-2-main (12)\musicon-prog-2-main\include\suscriptor.h
+	"Fecha.h"
+
+1765829097 c:\users\damie\onedrive\escritorio\musicon-prog-2-main (12)\musicon-prog-2-main\include\listas.h
+	<iostream>
+	<cstring>
+
+1765829097 c:\users\damie\onedrive\escritorio\musicon-prog-2-main (12)\musicon-prog-2-main\include\accesos.h
+	"Fecha.h"
+
+1765829097 c:\users\damie\onedrive\escritorio\musicon-prog-2-main (12)\musicon-prog-2-main\include\generos.h
+	<iostream>
+	<cstring>
+
+1765829097 source:c:\users\damie\onedrive\escritorio\musicon-prog-2-main (12)\musicon-prog-2-main\src\accesos.cpp
+	"Accesos.h"
+	<iostream>
+
+1765829097 source:c:\users\damie\onedrive\escritorio\musicon-prog-2-main (12)\musicon-prog-2-main\src\album.cpp
+	"Album.h"
+	<cstring>
+	<iostream>
+
+1765829097 source:c:\users\damie\onedrive\escritorio\musicon-prog-2-main (12)\musicon-prog-2-main\src\artista.cpp
+	"Artista.h"
+	<iostream>
+	<cstring>
+
+1765829097 source:c:\users\damie\onedrive\escritorio\musicon-prog-2-main (12)\musicon-prog-2-main\src\canciones.cpp
+	"Canciones.h"
+	<cstring>
+	<iostream>
+
+1765829098 source:c:\users\damie\onedrive\escritorio\musicon-prog-2-main (12)\musicon-prog-2-main\src\detalleplaylist.cpp
+	<iostream>
+	"DetallePlaylist.h"
+
+1765829098 source:c:\users\damie\onedrive\escritorio\musicon-prog-2-main (12)\musicon-prog-2-main\src\fecha.cpp
+	"Fecha.h"
+	<string>
+	<iostream>
+
+1765829098 source:c:\users\damie\onedrive\escritorio\musicon-prog-2-main (12)\musicon-prog-2-main\src\generos.cpp
+	"Generos.h"
+	<iostream>
+	<cstring>
+
+1765829098 source:c:\users\damie\onedrive\escritorio\musicon-prog-2-main (12)\musicon-prog-2-main\src\horayminutos.cpp
+	<iostream>
+	"HoraYMinutos.h"
+	<string>
+
+1765829098 source:c:\users\damie\onedrive\escritorio\musicon-prog-2-main (12)\musicon-prog-2-main\src\listas.cpp
+	"Listas.h"
+	<iostream>
+	<cstring>
+	<cstdio>
+
+1765829098 source:c:\users\damie\onedrive\escritorio\musicon-prog-2-main (12)\musicon-prog-2-main\src\musicon.cpp
+	"musicon.h"
+	<iostream>
+	<cstring>
+	<cstdio>
+	<ctime>
+	"Canciones.h"
+	"Suscriptor.h"
+	"Artista.h"
+	"Album.h"
+	"Generos.h"
+	"Accesos.h"
+	"DetallePlaylist.h"
+	"Listas.h"
+
+1765829098 source:c:\users\damie\onedrive\escritorio\musicon-prog-2-main (12)\musicon-prog-2-main\src\suscriptor.cpp
+	"Suscriptor.h"
+	<iostream>
+	<cstring>
+	<cstdio>
+
